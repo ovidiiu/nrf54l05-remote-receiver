@@ -1,0 +1,6 @@
+out/
+*.o
+*.elf
+*.map
+*.bin
+firmware-secure/common/secret.h
